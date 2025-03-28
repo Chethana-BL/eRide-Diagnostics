@@ -1,0 +1,16 @@
+[
+  {
+    "model": "MetroBee",
+    "description": "MetroBee is a lightweight electric bike designed for city commuting.",
+    "topSpeed": "40 km/h",
+    "batteryRange": "60 km",
+    "image": "assets/images/metroBee.png"
+  },
+  {
+    "model": "CliffHanger",
+    "description": "CliffHanger is a rugged e-bike built for off-road adventures.",
+    "topSpeed": "50 km/h",
+    "batteryRange": "75 km",
+    "image": "assets/images/cliffhanger.png"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "models": [
+    {
+      "model": "MetroBee",
+      "description": "Conquer the concrete jungle with effortless speed and style.",
+      "topSpeed": "60 km/h",
+      "batteryRange": "80 km",
+      "image": "assets/images/metroBee.png"
+    },
+    {
+      "model": "CliffHanger",
+      "description": "Tackle the cliffs and mountains with power and control.",
+      "topSpeed": "75 km/h",
+      "batteryRange": "100 km",
+      "image": "assets/images/cliffhanger.png"
+    }
+  ]  
+}
+  

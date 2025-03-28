@@ -1,0 +1,134 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Ignore executables and build artifacts
+*.exe
+*.apk
+*.ipa
+*.aab
+*.dll
+*.dylib
+*.so
+*.o
+*.out
+*.class
+*.jar
+
+# iOS build and derived data
+ios/Flutter/ephemeral/
+ios/Flutter/Flutter.podspec
+ios/build/
+ios/.symlinks/
+ios/.dart_tool/
+ios/.metadata
+
+# Xcode specific files
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Podfile.lock
+
+# CocoaPods
+ios/Pods/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+
+# Android build and generated files
+android/build/
+android/app/build/
+android/app/.cxx/
+android/.gradle/
+android/.idea/
+android/.dart_tool/
+android/.metadata
+
+# Local properties (machine-specific)
+android/local.properties
+
+# Gradle wrapper files (can be regenerated)
+android/gradle/wrapper/gradle-wrapper.jar
+
+# Flutter dependency files (auto-generated)
+android/.flutter-plugins
+android/.flutter-plugins-dependencies
+
+
+# Linux build and derived data
+linux/flutter/ephemeral/
+linux/.dart_tool/
+linux/.metadata
+linux/build/
+
+# Windows build and derived data
+windows/flutter/ephemeral/
+windows/.dart_tool/
+windows/.metadata
+windows/build/
+
+# macOS build and derived data
+macos/Flutter/ephemeral/
+macos/.symlinks/
+macos/.dart_tool/
+macos/.metadata
+macos/build/
+
+# macOS Flutter-specific files
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/Flutter/Flutter.podspec
+
+# Xcode specific files
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/project.xcworkspace/
+macos/Runner.xcodeproj/xcuserdata/
+macos/Podfile.lock
+
+# CocoaPods
+macos/Pods/
+
+# Local project-specific files
+macos/.metadata
+

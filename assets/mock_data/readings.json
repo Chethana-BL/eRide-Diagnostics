@@ -1,0 +1,44 @@
+[
+  {
+    "bikeId": "B1001",
+    "motorRPM": "1500",
+    "batteryCharge": "80%",
+    "odoMeter": "1200",
+    "lastError": "E02",
+    "lastAntiTheft": "2024-11-10T14:30:00Z"
+  },
+  {
+    "bikeId": "B1002",
+    "motorRPM": "1600",
+    "batteryCharge": "75%",
+    "odoMeter": "980",
+    "lastError": "None",
+    "lastAntiTheft": "2024-12-01T09:15:00Z"
+  },
+  {
+    "bikeId": "B1003",
+    "motorRPM": "1700",
+    "batteryCharge": "85%",
+    "odoMeter": "2300",
+    "lastError": "E01",
+    "gyroscope": {
+      "x": "0.4",
+      "y": "0.5",
+      "z": "0.6"
+    },
+    "totalAirtime": "4800"
+  },
+  {
+    "bikeId": "B1004",
+    "motorRPM": "1800",
+    "batteryCharge": "70%",
+    "odoMeter": "2100",
+    "lastError": "None",
+    "gyroscope": {
+      "x": "0.6",
+      "y": "0.7",
+      "z": "0.5"
+    },
+    "totalAirtime": "5200"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "B1001",
+    "name": "John's Metro",
+    "connectionType": "USB",
+    "model": "MetroBee"
+  },
+  {
+    "id": "B1002",
+    "name": "Alice's Metro",
+    "connectionType": "BLE",
+    "model": "MetroBee"
+  },
+  {
+    "id": "B1003",
+    "name": "Bob's CliffHanger",
+    "connectionType": "USB",
+    "model": "CliffHanger"
+  },
+  {
+    "id": "B1004",
+    "name": "Emma's CliffHanger",
+    "connectionType": "BLE",
+    "model": "CliffHanger"
+  }
+]
