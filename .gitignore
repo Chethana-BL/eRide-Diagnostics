@@ -121,9 +121,6 @@ macos/.flutter-plugins-dependencies
 macos/Flutter/Flutter.podspec
 
 # Xcode specific files
-macos/Runner.xcworkspace/
-macos/Runner.xcodeproj/project.xcworkspace/
-macos/Runner.xcodeproj/xcuserdata/
 macos/Podfile.lock
 
 # CocoaPods
